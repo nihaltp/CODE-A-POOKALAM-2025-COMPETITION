@@ -1,8 +1,9 @@
 const puppeteer = require("puppeteer");
-const fs = require("fs");
 
 (async () => {
-    const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch({
+        args: ["--no-sandbox", "--disable-setuid-sandbox"], // 🔥 important fix
+    });
     const page = await browser.newPage();
 
     // Open your index.html (hosted from repo)
