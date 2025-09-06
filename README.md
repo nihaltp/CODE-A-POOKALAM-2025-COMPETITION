@@ -15,7 +15,8 @@
 
 ### Preview
 
-![My Pookalam](my_pookkalam.png)
+<img src="my_pookkalam.png" width="500" style="display:inline-block; margin-right:10px;">
+<img src="animation.gif" width="500" style="display:inline-block;">
 
 ### Features
 
