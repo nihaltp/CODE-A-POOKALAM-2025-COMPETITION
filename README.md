@@ -11,7 +11,7 @@
 
 ### Description
 
-[Write a brief description of your Pookalam design, inspiration, or the approach you took]
+This Pookalam blends traditional floral patterns with geometric shapes, animated step by step using p5.js. Each layer unfolds gradually, showcasing symmetry, vibrant colors, and a visually engaging creation process.
 
 ### Preview
 
