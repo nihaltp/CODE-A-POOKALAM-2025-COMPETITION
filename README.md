@@ -30,7 +30,7 @@ This Pookalam blends traditional floral patterns with geometric shapes, animated
 
 ### Prerequisites
 
-- p5.js library (It is already included in the libraries folder)
+- [p5.js library](https://p5js.org/) (It is already included in the libraries folder)
 
 ```bash
 open index.html
